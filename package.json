@@ -1,5 +1,5 @@
 {
-  "name": "webpack",
+  "name": "mywebpack",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fictio07/webpack.git"
+    "url": "git+https://github.com/fictio07/mywebpack.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fictio07/webpack/issues"
+    "url": "https://github.com/fictio07/mywebpack/issues"
   },
-  "homepage": "https://github.com/fictio07/webpack#readme"
+  "homepage": "https://github.com/fictio07/mywebpack#readme",
+  "devDependencies": {
+    "webpack": "^3.11.0"
+  }
 }
