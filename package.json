@@ -1,0 +1,23 @@
+{
+  "name": "mywebpack",
+  "version": "1.0.0",
+  "description": "first webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fictio07/mywebpack.git"
+  },
+  "author": "neth07",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fictio07/mywebpack/issues"
+  },
+  "homepage": "https://github.com/fictio07/mywebpack#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^3.11.0"
+  }
+}
