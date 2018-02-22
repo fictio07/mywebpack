@@ -68,14 +68,14 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 var message =__webpack_require__(1);
-alert("message");
+alert(message);
 
 
 /***/ }),
 /* 1 */
 /***/ (function(module, exports) {
 
-module.exports="hello";
+module.exports="hellssssfasfadsfsso";
 
 
 /***/ })
