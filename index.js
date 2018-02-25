@@ -1,2 +1,2 @@
-var message =require('./app/script');
-alert(message);
+alert("asdddggsffsadfasdffdssssdsfsd");
+alert("workedddkennethd");
